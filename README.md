@@ -1,7 +1,6 @@
 README.md
 
 
-
 # Incident Management Playbook
 
 A practical collection of incident management procedures, escalation processes, communication templates, and root cause analysis documentation.
@@ -56,36 +55,8 @@ Support Engineer | Service Delivery Professional | AI & Automation Enthusiast
 
 ## Objective
 
-To restore service as quickly as possible while maintaining effective stakeholder communication.
-
-## Incident Lifecycle
-
-### 1. Detection
-Identify issue and assess impact.
-
-### 2. Classification
-Assign severity and priority.
-
-### 3. Escalation
-Engage appropriate technical teams.
-
-### 4. Communication
-Provide updates to stakeholders and users.
-
-### 5. Resolution
-Restore service and validate functionality.
-
-### 6. Review
-Conduct post-incident review and identify improvements.
-
-## Success Factors
-
-- Clear ownership
-- Accurate communication
-- Rapid escalation
-- Continuous improvement
 
 
- ⬜ powershell-support-toolkit
+
 
 
